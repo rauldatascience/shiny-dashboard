@@ -38,3 +38,7 @@ You have to prepare the visualization content that will be displayed
 ## Build UI.R
 
 Build the concept of dashboard
+
+## Result
+
+For the result you can visit this link https://rahulmuliana.shinyapps.io/lbb_ip/
